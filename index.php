@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1> Class Test -01</h1>
+    <a href="appt_input.php">Make an appointment</a>
+    <br>
+    <a href="cancel_input.php">Cancel an appointment</a>
 </body>
 </html>
