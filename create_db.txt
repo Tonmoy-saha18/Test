@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS Hospital_Management;
+
+CREATE TABLE Appointment(
+    id INT AUTO_INCREMENT,
+    phone VARCHAR(15) UNIQUE,
+    name VARCHAR(50),
+    appt_date VARCHAR(30),
+    doctor_name VARCHAR(50),
+    PRIMARY KEY(id)
+);
