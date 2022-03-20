@@ -10,5 +10,8 @@
 
     ?>
     <h5>Data Inserted</h5>
+    <a href="appt_input.php">Make an appointment</a>
+    <br>
+    <a href="cancel_input.php">Cancel an appointment</a>
     <?php
 ?>
