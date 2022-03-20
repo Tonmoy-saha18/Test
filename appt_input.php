@@ -14,16 +14,15 @@
         <form action="appt.php" method="POST">
             <p>
                 <label for="Name">Name: </label>
-                <input type="text" name="name>
+                <input type="text" name="name">
             </p>
-            <br>
             <p>
                 <label for="Number">Number: </label>
                 <input type="text" name="number">
             </p>
             <p>
                 <label for="Date">Date: </label>
-                <input type="text" name="Date">
+                <input type="text" name="date">
             </p>
             <p>
                 <label for="Doctor name">Doctor name: </label>
